@@ -17,8 +17,8 @@ Reference link: [Node.js Authentication with PostgreSQL, Sequelize, and Express.
 
 ## Steps to follow while working with the backend
 
-Make a new schema in ./models directory
-Connect to the schema in ./models/index.js file
-Make the CRUD for that model in ./controllers directory
-Define the routes and map it to the controller file in the ./routes directory
-If there are some middlewares needed, define those middlewares in ./middlewares directory
+- Make a new schema in `./models` directory
+- Connect to the schema in `./models/index.js` file
+- Make the CRUD for that model in `./controllers` directory
+- Define the routes and map it to the controller file in the `./routes` directory
+- If there are some middlewares needed, define those middlewares in `./middlewares` directory
