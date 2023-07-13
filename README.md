@@ -23,3 +23,5 @@ Reference link: [Node.js Authentication with PostgreSQL, Sequelize, and Express.
 - Define the routes and map it to the controller file in the `./routes` directory
 - If there are some middlewares needed, define those middlewares in `./middlewares` directory
 - In the end, add the app.use() in `./server.js` file
+
+### [Reference](https://sequelize.org/docs/v6/core-concepts/model-querying-basics/) for sequalize querry commands
