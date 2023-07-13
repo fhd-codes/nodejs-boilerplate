@@ -22,3 +22,4 @@ Reference link: [Node.js Authentication with PostgreSQL, Sequelize, and Express.
 - Make the CRUD for that model in `./controllers` directory
 - Define the routes and map it to the controller file in the `./routes` directory
 - If there are some middlewares needed, define those middlewares in `./middlewares` directory
+- In the end, add the app.use() in `./server.js` file
