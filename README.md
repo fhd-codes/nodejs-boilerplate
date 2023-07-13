@@ -13,3 +13,12 @@ By adhering to this file structure, the project maintains a modular and scalable
 
 
 Reference link: [Node.js Authentication with PostgreSQL, Sequelize, and Express.js](https://medium.com/@rachealkuranchie/node-js-authentication-with-postgresql-sequelize-and-express-js-20ae773da4c9).
+
+
+## Steps to follow while working with the backend
+
+Make a new schema in ./models directory
+Connect to the schema in ./models/index.js file
+Make the CRUD for that model in ./controllers directory
+Define the routes and map it to the controller file in the ./routes directory
+If there are some middlewares needed, define those middlewares in ./middlewares directory
